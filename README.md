@@ -1,32 +1,23 @@
-# React + TypeScript + Vite
+# 🚀 Portfolio 2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal developer portfolio built by **Onyemachukwu Uche** to showcase frontend engineering projects, React web applications, and professional expertise.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Overview
 
-## React Compiler
+This portfolio highlights my work as a Frontend Developer specializing in React, TypeScript, and modern UI architectures, featuring project spotlights (*Pulse-Core*, *Syntax Vault*, and *DevFlow Workspace*), a professional background overview, and an interactive technical skills matrix.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack & Tools
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+- **Frontend:** React, TypeScript, JavaScript (ES6+), Vite
+- **Styling:** Tailwind CSS, Framer Motion
+- **Icons & UI Elements:** Lucide React
+- **Cloud & Deployment:** AWS (S3, API Gateway, CloudFront), Vercel
+- **Version Control:** Git, GitHub (`PrinceUche2025`)
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+---
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+Live At : []
